@@ -1,28 +1,3 @@
 {
-  "cards": [
-    {
-      "title": "Traffic Controller Editor",
-      "image": "logo.svg",
-      "url": "",
-      "isActive": true
-    },
-    {
-      "title": "Traffic Controller",
-      "image": "",
-      "url": "",
-      "isActive": true
-    },
-    {
-      "title": "Traffic Simulator",
-      "image": "",
-      "url": "",
-      "isActive": true
-    },
-    {
-      "title": "NTCIP Tools",
-      "image": "",
-      "url": "",
-      "isActive": true
-    }
-  ]
+  "cards": []
 }
