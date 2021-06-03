@@ -1,0 +1,17 @@
+{
+  "description": "OpenNTCIP blogs",
+  "blogs": [
+    {
+      "title": "First Blog",
+      "date": "01/01/01",
+      "summary": "This is the first blog",
+      "content": "This is the first OpenNTCIP blog entry"
+    },
+    {
+      "title": "Second Blog",
+      "date": "01/02/01",
+      "summary": "This is the second blog",
+      "content": "This is the second OpenNTCIP blog entry"
+    }
+  ]
+}
