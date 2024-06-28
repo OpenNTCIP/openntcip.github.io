@@ -1,7 +1,7 @@
 ---
 title: "NTCIP Mib Parser"
 summary: "Library for parsing NTCIP MIB files"
-image: /images/amplify.svg
+image: /images/fork.svg
 imageAlt: "Image of traffic light"
 tech:
   - "Javascript"

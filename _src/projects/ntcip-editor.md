@@ -1,7 +1,7 @@
 ---
 title: "NTCIP Editor for Traffic Signal Controllers"
 summary: "An auto-generated web application for editing NTCIP traffic control objects."
-image: /images/amplify.svg
+image: /images/editor.svg
 imageAlt: "Image of traffic light"
 tech:
   - "Javascript"

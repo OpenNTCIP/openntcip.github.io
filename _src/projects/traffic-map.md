@@ -1,7 +1,7 @@
 ---
 title: "Traffic Map"
 summary: " geographical map showing simulated traffic and traffic controller outputs."
-image: /images/amplify.svg
+image: /images/street-road.svg
 imageAlt: "Image of traffic light"
 tech:
   - "Javascript"

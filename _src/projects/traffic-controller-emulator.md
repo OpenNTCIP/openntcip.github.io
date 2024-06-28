@@ -1,7 +1,7 @@
 ---
 title: "Traffic Controller Emulator"
 summary: "An application that emulates a traffic signal controller."
-image: /images/amplify.svg
+image: /images/traffic-lights-red.svg
 imageAlt: "Image of traffic light"
 tech:
   - "Javascript"

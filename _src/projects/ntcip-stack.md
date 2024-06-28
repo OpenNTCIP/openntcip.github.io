@@ -1,7 +1,7 @@
 ---
 title: "NTCIP Stack"
 summary: "Library for encoding and decoding NTCIP"
-image: /images/amplify.svg
+image: /images/stack.svg
 imageAlt: "Image of traffic light"
 tech:
   - "Javascript"

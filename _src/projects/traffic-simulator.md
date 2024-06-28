@@ -1,7 +1,7 @@
 ---
 title: "Traffic Simulator"
 summary: "A traffic simulator to enable vehicle/pedestrian detections for an emulated traffic controller."
-image: /images/amplify.svg
+image: /images/traffic-lights-red.svg
 imageAlt: "Image of traffic light"
 tech:
   - "Javascript"

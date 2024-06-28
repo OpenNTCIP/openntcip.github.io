@@ -1,0 +1,10 @@
+[
+  {
+    "title": "C++",
+    "image": "../images/cpp_logo.svg"
+  },
+  {
+    "title": "JavaScript",
+    "image": "../images/javascript.svg"
+  }
+]

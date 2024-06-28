@@ -1,7 +1,7 @@
 ---
 title: "NTCIP Database for Traffic Signal Controllers"
 summary: "An database for NTCIP traffic control objects."
-image: /images/amplify.svg
+image: /images/database.svg
 imageAlt: "Image of traffic light"
 tech:
   - "Javascript"
