@@ -5,6 +5,7 @@ image: /images/editor.svg
 imageAlt: "Image of traffic light"
 tech:
   - "Javascript"
+  - "C#"
 siteUrl: "#"
 repoUrl: "#"
 ---

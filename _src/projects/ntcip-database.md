@@ -5,6 +5,7 @@ image: /images/database.svg
 imageAlt: "Image of traffic light"
 tech:
   - "Javascript"
+  - "SQL"
 siteUrl: "#"
 repoUrl: "#"
 ---

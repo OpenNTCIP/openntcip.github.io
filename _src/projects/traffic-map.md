@@ -1,6 +1,6 @@
 ---
 title: "Traffic Map"
-summary: " geographical map showing simulated traffic and traffic controller outputs."
+summary: "Street map showing simulated traffic and traffic controller outputs."
 image: /images/street-road.svg
 imageAlt: "Image of traffic light"
 tech:
